@@ -55,6 +55,7 @@ button {
     border: none;
     padding: 9px 17px 9px 15px;
     border-radius: 6px;
+    margin-bottom: 20px;
 }
 
 p {
@@ -69,13 +70,20 @@ p {
     color: #10B981;
     text-align: center;
     line-height: 39px;
+    margin-top: 20px;
 }
 
 .container {
     margin: 115px 52px;
 }
 
-/* hover */
+hr {
+    border: 1px #273549 solid;
+    margin: 0;
+    width: 90%
+}
+
+/* interactive */
 
 input:hover {
     background-color: #243042;
